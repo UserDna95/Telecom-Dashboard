@@ -48,3 +48,8 @@ Step 4) Analyze in Python
 Outcome: Utilizing both paired t-test and ANOVA testing, it was found that the only attribute with a significant change before and after introducing 5G was ARPU (Average Revenue Per User), which showed a positive change. Enhanced network performance, for instance, could drive increased data usage, and lower latency might improve the overall customer experience. Consequently, understanding the causes of increased ARPU and developing innovative solutions—such as offering bundled packages, attractive deals, or strategic pricing to offset costs—would be the next logical step.
 
 However, given the paired t-test results showed a decline in active users and an increase in unsubscribed users, the initial focus should be further research into ARPU (Average Revenue Per User). Additionally, it is equally important to identify other attributes that may have contributed to user unsubscription, possibly through time series analysis.
+
+ Telecome Dashboard (Excel, Power BI, SQL)
+![Screen Shot 2025-02-21 at 8 09 38 PM](https://github.com/UserDna95/Telecom-Dashboard/blob/main/2025-02-21.png)
+![Screen Shot 2025-02-21 at 8 09 38 PM](https://github.com/UserDna95/Telecom-Dashboard/blob/main/2025-02-21%20(1).png)
+![Screen Shot 2025-02-21 at 8 09 38 PM](https://github.com/UserDna95/Telecom-Dashboard/blob/main/2025-02-21%20(2).png)
